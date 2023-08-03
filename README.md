@@ -1,2 +1,2 @@
 # Seam-Carving
-Project 2
+ESC190 Project 2
